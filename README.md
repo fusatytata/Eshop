@@ -4,11 +4,11 @@ This is a basic e-shop project using React and Bootstrap. Work is very much in p
 
 ## Desired features
 
-Browse and discover various products.
-Add items to your shopping cart.
-Remove items from your cart.
-Search for specific products.
-Filter products by category.
-Load more products to explore further.
+- Browse and discover various products.
+- Add items to your shopping cart.
+- Remove items from your cart.
+- Search for specific products.
+- Filter products by category.
+- Load more products to explore further.
 
 
