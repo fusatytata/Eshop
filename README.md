@@ -1,6 +1,6 @@
 # E-Shop
 
-This is a basic e-shop project using React and Bootstrap. Work is very much in progress.
+This is a basic e-shop project using React and Bootstrap. Work is very much in progress, I have just started!
 
 ## Desired features
 
